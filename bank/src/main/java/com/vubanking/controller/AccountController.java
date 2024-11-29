@@ -1,4 +1,4 @@
-package com.com.vubanking.controller;
+package com.vubanking.controller;
 
 public class AccountController {
     
