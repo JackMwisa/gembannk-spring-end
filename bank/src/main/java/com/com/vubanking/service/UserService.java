@@ -1,4 +1,4 @@
-package com.vubanking.service;
+package com.com.vubanking.service;
 
 import com.vubanking.model.User;
 import com.vubanking.repository.UserRepository;
